@@ -11,7 +11,7 @@
     },
     "prod": {
         "vpcId": "vpc-0ec3eaf5e3b714e89",
-        "subnetId": "subnet-0d4cc4dcd1ae2b192",
-        "availabilityZone": "ca-central-1a"
+        "subnetId": "subnet-0178d17f54c2e55e9",
+        "availabilityZone": "ca-central-1b"
     }
 }
