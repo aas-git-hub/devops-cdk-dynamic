@@ -1,0 +1,17 @@
+{
+    "dev": {
+        "vpcId": "vpc-0ec3eaf5e3b714e89",
+        "subnetId": "subnet-0d4cc4dcd1ae2b192",
+        "availabilityZone": "ca-central-1a"
+    },
+    "test": {
+        "vpcId": "vpc-0ec3eaf5e3b714e89",
+        "subnetId": "subnet-0d4cc4dcd1ae2b192",
+        "availabilityZone": "ca-central-1a"
+    },
+    "prod": {
+        "vpcId": "vpc-0ec3eaf5e3b714e89",
+        "subnetId": "subnet-0d4cc4dcd1ae2b192",
+        "availabilityZone": "ca-central-1a"
+    }
+}
